@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis_Book.aux
+A level-1 auxiliary file: ./a_cover.aux
+A level-1 auxiliary file: ./a_abstract.aux
+A level-1 auxiliary file: ./a_abstrak.aux
+A level-1 auxiliary file: ./a_list_terms.aux
+A level-1 auxiliary file: ./a_notation.aux
+A level-1 auxiliary file: ./chapter_1.aux
+A level-1 auxiliary file: ./chapter_2.aux
+A level-1 auxiliary file: ./chapter_3.aux
+The style file: ieeetr.bst
+Database file #1: ref_database.bib
+Warning--I didn't find a database entry for "Rubio2019a"
+Warning--empty journal in Nagayo2019
+Warning--empty journal in Arai2019
+Warning--empty booktitle in Mustafa2019
+Warning--can't use both volume and number fields in Mustafa2019
+Warning--empty journal in Al-mayyahi2014
+You've used 17 entries,
+            1876 wiz_defined-function locations,
+            609 strings with 7322 characters,
+and the built_in function-call counts, 5722 in all, are:
+= -- 582
+> -- 237
+< -- 0
++ -- 85
+- -- 68
+* -- 445
+:= -- 797
+add.period$ -- 17
+call.type$ -- 17
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 274
+empty$ -- 485
+format.name$ -- 68
+if$ -- 1372
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 17
+newline$ -- 54
+num.names$ -- 17
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 217
+stack$ -- 0
+substring$ -- 485
+swap$ -- 136
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 59
+width$ -- 19
+write$ -- 171
+(There were 6 warnings)

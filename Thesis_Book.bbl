@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{Othman2020}
+H.~Othman, M.~{Iskandar Petra}, L.~{Chandratilak De Silva}, and W.~Caesarendra,
+  ``{Automated trash collector design},'' {\em Journal of Physics: Conference
+  Series}, vol.~1444, no.~1, 2020.
+
+\bibitem{Hossain2019}
+S.~Hossain, B.~Debnath, A.~Anika, M.~Junaed-Al-Hossain, S.~Biswas, and
+  C.~Shahnaz, ``{Autonomous Trash Collector Based on Object Detection Using
+  Deep Neural Network},'' {\em IEEE Region 10 Annual International Conference,
+  Proceedings/TENCON}, vol.~2019-Octob, pp.~1406--1410, 2019.
+
+\bibitem{Khan2020}
+M.~A. Khan, ``{Garbage collector robot},'' {\em Indian Journal of Science and
+  Technology}, vol.~13, no.~20, pp.~2065--2070, 2020.
+
+\bibitem{Bai2018}
+J.~Bai, S.~Lian, Z.~Liu, K.~Wang, and D.~Liu, ``{Deep Learning Based Robot for
+  Automatically Picking Up Garbage on the Grass},'' {\em IEEE Transactions on
+  Consumer Electronics}, vol.~64, no.~3, pp.~382--389, 2018.
+
+\bibitem{HouxiangZhang2006}
+{Houxiang Zhang}, {Jianwei Zhang}, {Guanghua Zong}, {Wei Wang}, and {Rong Liu},
+  ``{Sky Cleaner 3: a real pneumatic climbing robot for glass-wall cleaning},''
+  {\em IEEE Robotics {\&} Automation Magazine}, vol.~13, no.~1, pp.~32--41,
+  2006.
+
+\bibitem{Yuan2011}
+F.~C. Yuan, H.~L. Sun, S.~J. Hu, and L.~Z. Wang, ``{Design of cleaning robot
+  for swimming pools},'' {\em 2011 International Conference on Management
+  Science and Industrial Engineering, MSIE 2011}, pp.~1175--1178, 2011.
+
+\bibitem{Kang2014}
+M.~C. Kang, K.~S. Kim, D.~K. Noh, J.~W. Han, and S.~J. Ko, ``{A robust obstacle
+  detection method for robotic vacuum cleaners},'' {\em IEEE Transactions on
+  Consumer Electronics}, vol.~60, no.~4, pp.~587--595, 2014.
+
+\bibitem{Palacin2004}
+J.~Palac{\'{i}}n, J.~A. Salse, I.~Valgan{\'{o}}n, and X.~Clua, ``{Building a
+  mobile robot for a floor-cleaning operation in domestic environments},'' {\em
+  IEEE Transactions on Instrumentation and Measurement}, vol.~53, no.~5,
+  pp.~1418--1424, 2004.
+
+\bibitem{Nagayo2019}
+A.~M. Nagayo, P.~Vikraman, M.~S. H.~A. Saidi, A.~S.~A. Hosni, and A.~K.~A.
+  Kharusi, ``{Autonomous Trash Collector Robot with Wireless Charging System in
+  a Campus Environment},'' vol.~2019, no.~June, pp.~4--7, 2019.
+
+\bibitem{Prasetyo2020}
+A.~P. Prasetyo, Rendyansyah, S.~D. Siswanti, S.~Nurmaini, and Abdurahman,
+  ``{Garbage Collector Robot (Gacobot) Design for Dry Waste Distribution},''
+  {\em Journal of Physics: Conference Series}, vol.~1500, no.~1, 2020.
+
+\bibitem{Kong2009}
+A.~Kong, D.~Zhang, and M.~Kamel, ``A survey of palmprint recognition,'' {\em
+  Pattern Recogn.}, vol.~42, pp.~1408 --1418, July 2009.
+
+\bibitem{Michael2008}
+G.~K. Ong~Michael, T.~Connie, and A.~B. Jin~Teoh, ``Review article: Touch-less
+  palm print biometrics: Novel design and implementation,'' {\em Image Vision
+  Comput.}, vol.~26, pp.~1551--1560, Dec. 2008.
+
+\bibitem{Wang2008}
+J.-G. Wang, W.-Y. Yau, A.~Suwandy, and E.~Sung, ``Person recognition by fusing
+  palmprint and palm vein images based on "laplacianpalm" representation,''
+  {\em Pattern Recogn.}, vol.~41, pp.~1514--1527, May 2008.
+
+\bibitem{Arai2019}
+Y.~Arai, R.~Miyagusuku, and K.~Ozaki, ``{Development and Testing of Garbage
+  Detection for Autonomous Robots in Outdoor Environments},'' 2019.
+
+\bibitem{Mustafa2019}
+K.~A.~A. Mustafa, N.~Botteghi, B.~Sirmacek, M.~Poel, and S.~Stramigioli,
+  ``{TOWARDS CONTINUOUS CONTROL FOR MOBILE ROBOT NAVIGATION: A REINFORCEMENT
+  LEARNING AND SLAM BASED APPROACH},'' vol.~XLII-2/W13, pp.~857--863, jun 2019.
+
+\bibitem{Saputra2019}
+H.~M. Saputra, A.~Nurhakim, and S.~Utomo, ``{Position Control of 1-DOF
+  High-Precision Rotary Table using Adaptive Neuro-Fuzzy Inference System
+  (ANFIS) Controller},'' {\em EMITTER International Journal of Engineering
+  Technology}, vol.~7, no.~2, pp.~511--523, 2019.
+
+\bibitem{Al-mayyahi2014}
+A.~Al-mayyahi, W.~Wang, and P.~Birch, ``{Adaptive Neuro-Fuzzy Technique for
+  Autonomous Ground},'' pp.~349--370, 2014.
+
+\end{thebibliography}
