@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.10.25)  8 NOV 2021 15:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.10.25)  15 NOV 2021 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.tex
-(/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.tex
+**/Volumes/iHDD/FirdausDev/repo/Thesis_Book.tex
+(/Volumes/iHDD/FirdausDev/repo/Thesis_Book.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
@@ -558,7 +558,7 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks33
 \dt@b=\toks34
-) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.aux (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_cover.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_abstract.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_abstrak.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_list_terms.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_notation.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_1.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_2.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_3.aux))
+) (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.aux (/Volumes/iHDD/FirdausDev/repo/./a_cover.aux) (/Volumes/iHDD/FirdausDev/repo/./a_abstract.aux) (/Volumes/iHDD/FirdausDev/repo/./a_abstrak.aux) (/Volumes/iHDD/FirdausDev/repo/./a_list_terms.aux) (/Volumes/iHDD/FirdausDev/repo/./a_notation.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_1.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_2.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_3.aux))
 \openout1 = `Thesis_Book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -661,7 +661,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 49.
 LaTeX Info: Redefining \pageref on input line 49.
 LaTeX Info: Redefining \nameref on input line 49.
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.out) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.out)
+ (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.out) (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.out)
 \@outlinefile=\write3
 \openout3 = `Thesis_Book.out'.
 
@@ -670,7 +670,7 @@ File: fc-english.def 2016/01/12
 )
 \openout2 = `./a_cover.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_cover.tex
+ (/Volumes/iHDD/FirdausDev/repo/./a_cover.tex
 <logo/TelkomUniversity.png, id=156, 186.4566pt x 269.5671pt>
 File: logo/TelkomUniversity.png Graphic file (type png)
 <use logo/TelkomUniversity.png>
@@ -680,10 +680,10 @@ Package pdftex.def Info: logo/TelkomUniversity.png  used on input line 19.
 
 
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/logo/TelkomUniversity.png>])
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Volumes/iHDD/FirdausDev/repo/logo/TelkomUniversity.png>])
 \openout2 = `./a_abstract.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_abstract.tex)
+ (/Volumes/iHDD/FirdausDev/repo/./a_abstract.tex)
 
 Package Fancyhdr Warning: \headheight is too small (1.0pt): 
 Make it at least 13.59999pt.
@@ -697,11 +697,11 @@ This may cause the page layout to be inconsistent, however.
 ]
 \openout2 = `./a_abstrak.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_abstrak.tex) [3
+ (/Volumes/iHDD/FirdausDev/repo/./a_abstrak.tex) [3
 
 
 
-] (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.toc
+] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -716,13 +716,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `Thesis_Book.toc'.
 
- [5] (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.lot)
+ [5] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.lot)
 \tf@lot=\write5
 \openout5 = `Thesis_Book.lot'.
 
  [6
 
-] (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.lof)
+] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.lof)
 \tf@lof=\write6
 \openout6 = `Thesis_Book.lof'.
 
@@ -731,12 +731,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 \openout2 = `./a_list_terms.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_list_terms.tex) [8
+ (/Volumes/iHDD/FirdausDev/repo/./a_list_terms.tex) [8
 
 ]
 \openout2 = `./a_notation.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_notation.tex
+ (/Volumes/iHDD/FirdausDev/repo/./a_notation.tex
 Underfull \vbox (badness 10000) detected at line 13
  []
 
@@ -746,7 +746,7 @@ Underfull \vbox (badness 10000) detected at line 13
 ]
 \openout2 = `./chapter_1.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_1.tex
+ (/Volumes/iHDD/FirdausDev/repo/./chapter_1.tex
 CHAPTER 1.
 
 Package natbib Warning: Citation `Rubio2019a' on page 1 undefined on input line 68.
@@ -754,7 +754,7 @@ Package natbib Warning: Citation `Rubio2019a' on page 1 undefined on input line 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.118 p
+l.119 p
        ossibility that the phenomenon will give new concepts as a result; [1
 
 
@@ -763,18 +763,18 @@ l.118 p
 <figure/Metode-Penelitian-flow.png, id=320, 332.24126pt x 432.61626pt>
 File: figure/Metode-Penelitian-flow.png Graphic file (type png)
 <use figure/Metode-Penelitian-flow.png>
-Package pdftex.def Info: figure/Metode-Penelitian-flow.png  used on input line 222.
+Package pdftex.def Info: figure/Metode-Penelitian-flow.png  used on input line 223.
 (pdftex.def)             Requested size: 300.54515pt x 391.3644pt.
- [3 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/Metode-Penelitian-flow.png>]
+ [3 </Volumes/iHDD/FirdausDev/repo/figure/Metode-Penelitian-flow.png>]
 <figure/Chart-ThesisQ.png, id=327, 798.985pt x 457.71pt>
 File: figure/Chart-ThesisQ.png Graphic file (type png)
 <use figure/Chart-ThesisQ.png>
-Package pdftex.def Info: figure/Chart-ThesisQ.png  used on input line 302.
+Package pdftex.def Info: figure/Chart-ThesisQ.png  used on input line 303.
 (pdftex.def)             Requested size: 386.41426pt x 221.36052pt.
- [4] [5 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/Chart-ThesisQ.png>]) [6]
+ [4] [5 </Volumes/iHDD/FirdausDev/repo/figure/Chart-ThesisQ.png>]) [6]
 \openout2 = `./chapter_2.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_2.tex
+ (/Volumes/iHDD/FirdausDev/repo/./chapter_2.tex
 CHAPTER 2.
 [7
 
@@ -801,13 +801,13 @@ Overfull \hbox (15.16273pt too wide) in paragraph at lines 59--66
 \OT1/cmr/m/n/10.95 meren-canakan tin-dakan se-lan-jut-nya, dan akhirnya men-garahkan robot. Gam-bar []2.2[] menggam-
  []
 
-[8 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/screenshot004.png>] [9 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/screenshot005.png>]
+[8 </Volumes/iHDD/FirdausDev/repo/figure/screenshot004.png>] [9 </Volumes/iHDD/FirdausDev/repo/figure/screenshot005.png>]
 <figure/screenshot013.png, id=375, 734.745pt x 322.20375pt>
 File: figure/screenshot013.png Graphic file (type png)
 <use figure/screenshot013.png>
 Package pdftex.def Info: figure/screenshot013.png  used on input line 124.
 (pdftex.def)             Requested size: 300.54515pt x 131.79956pt.
- [10 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/screenshot013.png>]
+ [10 </Volumes/iHDD/FirdausDev/repo/figure/screenshot013.png>]
 <figure/screenshot009.png, id=382, 777.90625pt x 374.39874pt>
 File: figure/screenshot009.png Graphic file (type png)
 <use figure/screenshot009.png>
@@ -818,10 +818,10 @@ File: figure/screenshot010.png Graphic file (type png)
 <use figure/screenshot010.png>
 Package pdftex.def Info: figure/screenshot010.png  used on input line 151.
 (pdftex.def)             Requested size: 300.54515pt x 181.75438pt.
- [11 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/screenshot009.png>]) [12 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/screenshot010.png>]
+ [11 </Volumes/iHDD/FirdausDev/repo/figure/screenshot009.png>]) [12 </Volumes/iHDD/FirdausDev/repo/figure/screenshot010.png>]
 \openout2 = `./chapter_3.aux'.
 
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_3.tex
+ (/Volumes/iHDD/FirdausDev/repo/./chapter_3.tex
 CHAPTER 3.
 <figure/NFQL-BBR-AMR.png, id=397, 529.98pt x 287.0725pt>
 File: figure/NFQL-BBR-AMR.png Graphic file (type png)
@@ -832,7 +832,7 @@ Package pdftex.def Info: figure/NFQL-BBR-AMR.png  used on input line 54.
 
 
 
-] [14 </Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/figure/NFQL-BBR-AMR.png>] [15]) [16] (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.bbl [17
+] [14 </Volumes/iHDD/FirdausDev/repo/figure/NFQL-BBR-AMR.png>] [15]) [16] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.bbl [17
 
 
 ])
@@ -842,7 +842,7 @@ Package natbib Warning: There were undefined citations.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
 [18]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
- (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.aux (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_cover.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_abstract.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_abstrak.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_list_terms.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./a_notation.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_1.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_2.aux) (/Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/./chapter_3.aux))
+ (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.aux (/Volumes/iHDD/FirdausDev/repo/./a_cover.aux) (/Volumes/iHDD/FirdausDev/repo/./a_abstract.aux) (/Volumes/iHDD/FirdausDev/repo/./a_abstrak.aux) (/Volumes/iHDD/FirdausDev/repo/./a_list_terms.aux) (/Volumes/iHDD/FirdausDev/repo/./a_notation.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_1.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_2.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_3.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 Package rerunfilecheck Info: File `Thesis_Book.out' has not changed.
@@ -851,14 +851,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
  12500 strings out of 480608
- 195639 string characters out of 5903629
+ 194659 string characters out of 5903629
  594275 words of memory out of 5000000
  27934 multiletter control sequences out of 15000+600000
  541958 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 50i,12n,81p,2045b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,12n,81p,2031b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Volumes/iHDD/FirdausDev/git/Thesis/inLaTeX/Thesis_Book.pdf (27 pages, 425778 bytes).
+Output written on /Volumes/iHDD/FirdausDev/repo/Thesis_Book.pdf (27 pages, 426592 bytes).
 PDF statistics:
  499 PDF objects out of 1000 (max. 8388607)
  435 compressed objects within 5 object streams
