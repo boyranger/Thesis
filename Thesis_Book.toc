@@ -14,11 +14,11 @@
 \contentsline {section}{\numberline {1.6}Metodologi}{3}{section.1.6}%
 \contentsline {subsection}{\numberline {1.6.1}Studi Literatur}{4}{subsection.1.6.1}%
 \contentsline {subsection}{\numberline {1.6.2}Requirement identification}{4}{subsection.1.6.2}%
-\contentsline {subsection}{\numberline {1.6.3}Perancangan dan Pembuatan Sistem}{4}{subsection.1.6.3}%
-\contentsline {subsection}{\numberline {1.6.4}Implementasi dan Pengujian Sistem}{4}{subsection.1.6.4}%
-\contentsline {subsection}{\numberline {1.6.5}Pengambilan Data dan Analisa Sistem}{4}{subsection.1.6.5}%
-\contentsline {subsection}{\numberline {1.6.6}Kesimpulan dan Saran}{4}{subsection.1.6.6}%
-\contentsline {section}{\numberline {1.7}Schedule}{4}{section.1.7}%
+\contentsline {subsection}{\numberline {1.6.3}Perancangan dan Pembuatan Sistem}{5}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Implementasi dan Pengujian Sistem}{5}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Pengambilan Data dan Analisa Sistem}{5}{subsection.1.6.5}%
+\contentsline {subsection}{\numberline {1.6.6}Kesimpulan dan Saran}{5}{subsection.1.6.6}%
+\contentsline {section}{\numberline {1.7}Schedule}{5}{section.1.7}%
 \contentsline {chapter}{\numberline {2}REVIEW OF LITERATURE AND STUDIES}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Autonomous Trash Collector Robot}{7}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Autonomous Mobile Robot}{7}{section.2.2}%
@@ -35,4 +35,4 @@
 \contentsline {section}{\numberline {3.3}Desain Lingkungan}{15}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Skenario Pengambilan data}{15}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Skenario Analisis}{15}{section.3.5}%
-\contentsline {chapter}{\numberline {}BIBLIOGRAPHY}{17}{Item.19}%
+\contentsline {chapter}{\numberline {}BIBLIOGRAPHY}{17}{Item.22}%
