@@ -42,15 +42,10 @@ J.~Palac{\'{i}}n, J.~A. Salse, I.~Valgan{\'{o}}n, and X.~Clua, ``{Building a
   IEEE Transactions on Instrumentation and Measurement}, vol.~53, no.~5,
   pp.~1418--1424, 2004.
 
-\bibitem{Nagayo2019}
-A.~M. Nagayo, P.~Vikraman, M.~S. H.~A. Saidi, A.~S.~A. Hosni, and A.~K.~A.
-  Kharusi, ``{Autonomous Trash Collector Robot with Wireless Charging System in
-  a Campus Environment},'' vol.~2019, no.~June, pp.~4--7, 2019.
-
-\bibitem{Prasetyo2020}
-A.~P. Prasetyo, Rendyansyah, S.~D. Siswanti, S.~Nurmaini, and Abdurahman,
-  ``{Garbage Collector Robot (Gacobot) Design for Dry Waste Distribution},''
-  {\em Journal of Physics: Conference Series}, vol.~1500, no.~1, 2020.
+\bibitem{Mustafa2019}
+K.~A.~A. Mustafa, N.~Botteghi, B.~Sirmacek, M.~Poel, and S.~Stramigioli,
+  ``{TOWARDS CONTINUOUS CONTROL FOR MOBILE ROBOT NAVIGATION: A REINFORCEMENT
+  LEARNING AND SLAM BASED APPROACH},'' vol.~XLII-2/W13, pp.~857--863, jun 2019.
 
 \bibitem{Kong2009}
 A.~Kong, D.~Zhang, and M.~Kamel, ``A survey of palmprint recognition,'' {\em
@@ -70,10 +65,10 @@ J.-G. Wang, W.-Y. Yau, A.~Suwandy, and E.~Sung, ``Person recognition by fusing
 Y.~Arai, R.~Miyagusuku, and K.~Ozaki, ``{Development and Testing of Garbage
   Detection for Autonomous Robots in Outdoor Environments},'' 2019.
 
-\bibitem{Mustafa2019}
-K.~A.~A. Mustafa, N.~Botteghi, B.~Sirmacek, M.~Poel, and S.~Stramigioli,
-  ``{TOWARDS CONTINUOUS CONTROL FOR MOBILE ROBOT NAVIGATION: A REINFORCEMENT
-  LEARNING AND SLAM BASED APPROACH},'' vol.~XLII-2/W13, pp.~857--863, jun 2019.
+\bibitem{Hoffmann2003}
+F.~Hoffmann, ``{An Overview on Soft Computing in Behavior Based Robotics},'' in
+  {\em Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in
+  Computer Science)}, vol.~2715, pp.~544--551, 2003.
 
 \bibitem{Saputra2019}
 H.~M. Saputra, A.~Nurhakim, and S.~Utomo, ``{Position Control of 1-DOF
@@ -84,5 +79,10 @@ H.~M. Saputra, A.~Nurhakim, and S.~Utomo, ``{Position Control of 1-DOF
 \bibitem{Al-mayyahi2014}
 A.~Al-mayyahi, W.~Wang, and P.~Birch, ``{Adaptive Neuro-Fuzzy Technique for
   Autonomous Ground},'' pp.~349--370, 2014.
+
+\bibitem{Prasetyo2020}
+A.~P. Prasetyo, Rendyansyah, S.~D. Siswanti, S.~Nurmaini, and Abdurahman,
+  ``{Garbage Collector Robot (Gacobot) Design for Dry Waste Distribution},''
+  {\em Journal of Physics: Conference Series}, vol.~1500, no.~1, 2020.
 
 \end{thebibliography}

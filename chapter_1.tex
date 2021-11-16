@@ -87,45 +87,22 @@
  sehingga sistem pembuangan sampah menjadi sektor yang cukup krusial \cite{Othman2020}\cite{Hossain2019}. 
  Metode pengelolaan sampah secara manual menjadi metode yang sering digunakan untuk mengatasi krisis tersebut\cite{Khan2020}. 
  Namun, terdapat beberapa masalah pada pengelolaan sampah secara manual, seperti keselamatan para tenaga kerja, tidak dapat menjaungkau daerah terpencil, tingginya biaya pengoprasian, dan lainya\cite{Khan2020}. 
- Autonomous Robot menjadi solusi untuk mengatasi permasalahan tersebut, karena dapat mengurangi resiko kecelakaan, dapat menjangkau daerah terpencil, dan dapat melakukan pekerjaan secara berulang \cite{Khan2020, Bai2018}. Autonomous Robot telah banyak dikembangkan pada beberape penelitian, seperti: Robot pembersih dinding \cite{HouxiangZhang2006}, pembersih air\cite{Yuan2011}, dan pembersih lantai\cite{Bai2018, Kang2014, Palacin2004}. Berdasarkan pada sistem kerja Autonomous Robot, sistem pengelola sampah dapat dibuat secara otomatis\cite{Bai2018, Nagayo2019, Prasetyo2020}.
+ Autonomous Trash Collector Robot (ATCR) menjadi solusi untuk mengatasi permasalahan tersebut, karena dapat mengurangi resiko kecelakaan, dapat menjangkau daerah terpencil, dan dapat melakukan pekerjaan secara berulang \cite{Khan2020, Bai2018}. Autonomous mobile Robot telah banyak dikembangkan pada beberapa penelitian, seperti: Robot pembersih dinding \cite{HouxiangZhang2006}, pembersih air\cite{Yuan2011}, dan pembersih lantai\cite{Bai2018, Kang2014, Palacin2004}. 
  
  Robot dapat bergerak secara mandiri berdasarkan lingkungannya seperti [5] dan bergerak manual berdasarkan perintah dari operator seperti [6]. 
- Salah satu cara untuk mendapatkan informasi di sekitarnya adalah dengan menggunakan teknik pengindraan visual yang tidak membutuhkan banyak sensor [4], [8].
+ Salah satu cara untuk mendapatkan informasi di sekitarnya adalah dengan menggunakan teknik pengindraan yang tidak membutuhkan banyak sensor [4], [8].
  Beberapa teknik navigasi mobile robot telah diaplikasikan, yaitu navigasi berbasis perilaku (behaviors), petunjuk daerah (landmark), dan berbasis penglihatan (vision) [4]. 
  
  
- %Dalam navigasi autonomos robot di lingkungan yang tidak terstruktur, sulit untuk mendapatkan model matematika yang tepat dari interaksi robot dengan lingkungannya. Karena keacakan yang melekat pada lingkungan  maka sulit untuk mendapatkan pengetahuan lingkungan yang lengkap \cite{Mustafa2019}. Kompleksitas tugas dapat diatasi dengan metode membagi dan memecah seluruh masalah menjadi subtugas yang lebih mudah dikelola. Pada Penelitian ini akan membuat arsitektur perilaku hierarkis karena dapat memisahkan tugas merancang perilaku (behavior) primitif atau mengadaptasi strategi yang diawasi yang berkoordinasi dengan perilaku belajar (learning behavior)  \cite{Hoffmann2003}.
+ Dalam navigasi autonomos robot di lingkungan yang tidak terstruktur, sulit untuk mendapatkan model matematika yang tepat dari interaksi robot dengan lingkungannya. Karena keacakan yang melekat pada lingkungan  maka sulit untuk mendapatkan pengetahuan lingkungan yang lengkap \cite{Mustafa2019} Kompleksitas tugas dapat diatasi dengan metode membagi dan memecah seluruh masalah menjadi subtugas yang lebih mudah dikelola. Pada Referensi \cite{Bai2018}, sebuah Autonomous Robot dibuat untuk mengambil sampah yang beroperasi di rumput. Robot mampu mendeteksi sampah secara otomatis dan akurat dengan menggunakan algoritma Deep Neural Network \cite{Kong2009}. Robot tersebut dilengkapi sensor ultrasonic\cite{Michael2008} dan sistem navigasi \cite{Wang2008}. Hasil pengujian menunjukan bahwa robot mampu mendeteksi sampah dengan akurasi 95\%. Pada makalah\cite{Arai2019}, Autonomous Robot dirancang menggunakan algoritma Convolutional Neural Network (CNN) untuk mendeteksi berbagai jenis sampah, seperti kaleng, botol plastik, dan kotak makan siang secara otomatis. Sistem robot mampu mendeteksi sampah secara outdoor. Berdasarkan data hasil pengujian\cite{Arai2019}, robot tersebut mampu mendeteksi sampah dengan tingkat kepresisian sebesar 95,6\% dan tingkat akurasi sebesar 96,8\%.
  
- Karena model lingkungannya yang tidak terstruktur dan tidak diketahui, metode reinforcement learning dapat digunakan.  Meskipun banyak algortima Q-learning kontinyu diusulkan, namun hanya beberapa yang diterapkan pada aplikasi robot real untuk sistem navigasi autonomous mobile robot[20]. 
- 
- %the gap of existing condition and the future condition;
- %who,where,when (auth,paper,year)
- %what (problem)
- %how(method)
- %
+ Meskipun banyak algortima Q-learning kontinyu diusulkan, namun hanya beberapa yang diterapkan pada aplikasi robot real untuk sistem navigasi autonomous mobile robot[20]. Pada Penelitian ini akan membuat arsitektur perilaku hierarkis karena dapat memisahkan tugas merancang perilaku (behavior) primitif atau mengadaptasi strategi yang diawasi yang berkoordinasi dengan perilaku belajar (learning behavior)  \cite{Hoffmann2003}. Terispirasi dari makalah \cite{Bai2018} dan makalah\cite{Kong2009,Michael2008,Wang2008,Arai2019}, 
+ penelitian thesis ini bertujuan untuk merancang \textit{Autonomous Trash Collector Robot} (ATCR) menggunakan \textit{Deep Reinfocement Learning}  \cite{Mustafa2019}. Robot dilengkapi dengan sensor  dan sistem navigasi untuk mendeteksi posisi robot. Selain itu, ATCR juga dilengkapi sistem kendali pada motor\cite{Saputra2019}.
 
- %the problem identification; metode yang d usulkan dan kelemahan yg ada
- 
- Pada Referensi \cite{Bai2018}, sebuah Autonomous Robot dibuat untuk mengambil sampah yang beroperasi di rumput. Robot mampu mendeteksi sampah secara otomatis dan akurat dengan menggunakan algoritma Deep Neural Network \cite{Kong2009}. Robot tersebut dilengkapi sensor ultrasonic\cite{Michael2008} dan sistem navigasi \cite{Wang2008}. Hasil pengujian menunjukan bahwa robot mampu mendeteksi sampah dengan akurasi 95\%. Pada makalah\cite{Arai2019}, Autonomous Robot dirancang menggunakan algoritma Convolutional Neural Network (CNN) untuk mendeteksi berbagai jenis sampah, seperti kaleng, botol plastik, dan kotak makan siang secara otomatis. Sistem robot mampu mendeteksi sampah secara outdoor. Berdasarkan data hasil pengujian\cite{Arai2019}, robot tersebut mampu mendeteksi sampah dengan tingkat kepresisian sebesar 95,6\% dan tingkat akurasi sebesar 96,8\%.
- 
- Terispirasi dari makalah \cite{Bai2018} dan makalah\cite{Kong2009,Michael2008,Wang2008,Arai2019}, 
- penelitian thesis ini bertujuan untuk merancang \textit{Autonomous Trash Collector System} (ATCS) menggunakan \textit{Deep Reinfocement Learning}  \cite{Mustafa2019}. Robot dilengkapi dengan sensor kamera dan sistem navigasi untuk mendeteksi posisi robot. Selain itu, ATCS juga dilengkapi sistem kendali \textit{Adaptive Neuro-Fuzzy Inference System} (ANFIS) sebagai sistem kendali pada motor\cite{Saputra2019}. Penelitian ini diharapkan dapat membantu mengatasi masalah pengelolaan sampah yang kebanyakan masih dikelola secara manual.
-  %bahas referensi utama,
+%Pada penelitian ini akan dirancang robot platform middleware ROS dengan arsitektur behavior based control. Algoritma Q-Learning hanya diterapkan pada dua prilaku yaitu menghindari rintangan, dan mencapai target. Behavior dengan tujuan berbeda dapat menimbulkan konflik yang tidak dapat diselesaikan. Oleh karena itu, dibutuhkan suatu formulasi mekanisme koordinasi yang efektif dari beberapa aktifitas robot. Kemudian juga akan ditambahkan Q learning sebagai mekanisme pembelajaran robot. Robot akan melakukan navigasi otonom untuk menghindari halangan dan menemukan target.
 
 
-%NEURO-FUZZY DEEP Q-LEARNING
 
-
-possibility that the phenomenon will give new concepts as a result; 
-%Pada penelitian ini terdapat beberapa behavior yang digunakan dalam aplikasi robot soccer, diantaranya wandering (berkeliling), search target (bola), dan go to goal (gawang). Behavior dengan tujuan berbeda dapat menimbulkan konflik yang tidak dapat diselesaikan. Oleh karena itu, dibutuhkan suatu formulasi mekanisme koordinasi yang efektif dari beberapa aktifitas robot .
-
-%====================================
-%Pada penelitian ini akan dirancang hexapod robot dengan arsitektur behavior based. Kemudian juga akan ditambahkan Q learning sebagai mekanisme pembelajaran robot. Robot akan melakukan navigasi otonom untuk menghindari halangan dan menemukan target berupa sumber cahaya.
-
-
-%Pada penelitian ini terdapat beberapabehavior yang digunakan dalam aplikasi robot soccer, diantaranya wandering (berkeliling), search target (bola), dan go to goal (gawang). Behavior dengan tujuan berbeda dapat menimbulkan konflik yang tidak dapat diselesaikan. Oleh karena itu, dibutuhkan suatu formulasi mekanisme koordinasi yang efektif dari beberapa aktifitas robot .
-
-%Pada penelitian ini akan dirancang robot multiplatform iSRo II dengan arsitektur behavior based control. Algoritma FQL hanya diterapkan pada dua prilaku yaitu menghindari rintangan, dan mencapai target.
 
 
 

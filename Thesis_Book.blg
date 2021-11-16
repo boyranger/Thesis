@@ -11,44 +11,44 @@ A level-1 auxiliary file: ./chapter_2.aux
 A level-1 auxiliary file: ./chapter_3.aux
 The style file: ieeetr.bst
 Database file #1: ref_database.bib
-Warning--empty journal in Nagayo2019
-Warning--empty journal in Arai2019
 Warning--empty booktitle in Mustafa2019
 Warning--can't use both volume and number fields in Mustafa2019
+Warning--empty journal in Arai2019
+Warning--empty publisher in Hoffmann2003
 Warning--empty journal in Al-mayyahi2014
 You've used 17 entries,
             1876 wiz_defined-function locations,
-            607 strings with 7302 characters,
-and the built_in function-call counts, 5722 in all, are:
-= -- 582
-> -- 237
+            610 strings with 7269 characters,
+and the built_in function-call counts, 5767 in all, are:
+= -- 591
+> -- 224
 < -- 0
-+ -- 85
-- -- 68
-* -- 445
-:= -- 797
++ -- 81
+- -- 64
+* -- 442
+:= -- 792
 add.period$ -- 17
 call.type$ -- 17
 change.case$ -- 17
 chr.to.int$ -- 0
 cite$ -- 22
-duplicate$ -- 274
-empty$ -- 485
-format.name$ -- 68
-if$ -- 1372
+duplicate$ -- 280
+empty$ -- 499
+format.name$ -- 64
+if$ -- 1390
 int.to.chr$ -- 0
 int.to.str$ -- 17
 missing$ -- 17
 newline$ -- 54
 num.names$ -- 17
-pop$ -- 38
+pop$ -- 40
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 217
+skip$ -- 225
 stack$ -- 0
-substring$ -- 485
-swap$ -- 136
+substring$ -- 501
+swap$ -- 141
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
