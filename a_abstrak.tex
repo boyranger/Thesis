@@ -4,23 +4,28 @@
 \addcontentsline{toc}{chapter}{\protect\numberline{}ABSTRAK}
 \normalfont\LARGE\textbf{ABSTRAK}
 \end{center}
+%[I]
+Menavigasi robot otonom di lingkungan yang tidak terkendali itu menantang karena membutuhkan seperangkat subsistem yang bekerja secara bersama. 
 
-Menavigasi robot otonom di lingkungan yang tidak terkendali itu menantang 
-karena membutuhkan seperangkat subsistem yang bekerja sama. 
-Ini membutuhkan pembuatan peta lingkungan, penempatan robot di peta ini, 
-membuat rencana perjalanan berdasarkan peta, menjalankan rencana ini dengan pengontrol dan tugas lainnya; 
-Semua sekaligus. Di sisi lain, pertanyaan tentang navigasi otomatis sangat penting untuk masa depan robotika. 
-Banyak aplikasi  memerlukan solusi ini, seperti pengiriman paket, pembersihan, pertanian, pengawasan, 
-pencarian dan penyelamatan, konstruksi dan transportasi. Perhatikan bahwa semua aplikasi ini terjadi di lingkungan yang tidak diatur. 
+Ini membutuhkan pembuatan peta lingkungan, penempatan robot di peta, membuat rute berdasarkan peta, menjalankan rute dengan pengontrol dan tugas lainnya.  
+Banyak aplikasi memerlukan solusi ini, seperti pengiriman paket, pembersihan, pertanian, pengawasan, 
+pencarian dan penyelamatan, konstruksi dan transportasi. Semua aplikasi ini terjadi di lingkungan yang tidak diatur. 
+%[M]
+Penelitian ini konsern pada navigasi otomatis pada mobile robot dari posisi awal menuju posisi tujuan. 
+Menggunakan kerangka kerja deep reinforcement learning, digunakan untuk mendapatkan pemetaan posisi untuk mengoptimalkan aksi pada robot mobile. Reinforcement learning memerlukan jumlah sampel pelatihan yang banyak, yang mana sangat sulit untuk dapat langsung diaplikasikan pada sekenario navigasi robot mobile secara nyata. Untuk memecahkan masalah tersebut pertama-tama DQN dilatih dilingkungan simulasi Gazebo, followed by the application of the well-trained DQN pada sekenario navigasi mobile robot dunia nyata.
+
+
 Dalam tugas akhir ini, kami mencoba memecahkan beberapa sub-masalah yang terkait dengan navigasi otomatis di lingkungan yang tidak terkendali. 
-Untuk perencanaan, kami menyajikan dan mengeksplorasi konsep dasar ruang yang diketahui, ruang bebas, 
-dan asumsi tentang ruang yang tidak diketahui untuk mengatasi beberapa pengamatan lingkungan. 
-Asumsi ini diperlukan untuk menavigasi dalam lingkungan yang dinamis dan asing. Untuk lingkungan yang dinamis, 
-kami menyediakan dua metode pertama untuk memulihkan rintangan tiruan di peta dan membuat robot tetap mencari tujuannya. 
-Untuk lingkungan yang tidak dikenal, kami menawarkan cara bernavigasi dengan lebih efisien. 
-Kami melakukan simulasi Monte Carlo untuk mengevaluasi kinerja algoritma kami. 
-Hasilnya menunjukkan dalam kondisi apa algoritme kami berkinerja lebih baik dan lebih buruk
+Untuk lingkungan yang dinamis, kami menyediakan dua metode, pertama untuk memulihkan rintangan tiruan di peta dan membuat robot tetap mencari tujuannya. 
+Untuk lingkungan yang tidak dikenal, kami menawarkan cara bernavigasi dengan lebih efisien. Kami melakukan simulasi Monte Carlo untuk mengevaluasi kinerja algoritma kami. Hasilnya menunjukkan dalam kondisi apa algoritma kami berkinerja lebih baik dan lebih buruk.
+
 Pada penelitian ini akan dirancang Autonomous Trash Collector Robot dengan arsitektur behavior based control. 
 
+Navigasi pada mobile robot menggunakan metode pembelajaran mesin, Reinforcement Learning, dengan algoritma Q-Learning. Robot mobile diharapkan mampu melakukan fungsi pencarian rute terpendek, pemetaan dan lokalisasi, dan dapat menghindari halangan statis dan dinamis di lingkungan. Agar sistem dapat berjalan pada banyak platform perangkat keras pada saat bersamaan dan untuk membuat sebuah sistem kendali dengan keperluan monitoring agar bisa menghubungkan manusia dan robot. Maka penelitian ini memanfaatkan platform middleware Robot Operating System (ROS).
+%[Ra]
+Pada kedua simulasi dan dunia nyata eksperimen telah dilakukan untuk memvalidasi pendekatan yang diajukan. Hasil eksperimen navigasi otomatis robot mobile pada simulasi lingkungan Gazebo bahwa pelatihan DQN dapat memperkirakan fungsi nilai tindakan keadaan pada robot mobile dan menunjukan akurasi pemetaan didapat dari sensor untuk mengoptimalkan aksi robot mobile.
+
+Navigasi robot mobile pada lingkungan baru akan dilakukan pelatihan beberapa episode pada lingkungan simulasi untuk melihat apakah robot mobile dapat mencari rute baru ketika rute yang sudah ada tertutupi atau terhalang, sehingga robot mobile dapat menghindari halangan dinamis atau statis dengan baik. Oleh karena itu metode ini diharapkan dapat efektif
+%[D]
 % menghindari rintangan, dan mencapai target.
 \textbf{Kata kunci: Autonomous robot, Q-Learning, Behavior-Based Robot} 
