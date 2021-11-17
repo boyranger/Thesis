@@ -11,10 +11,10 @@ A level-1 auxiliary file: ./chapter_2.aux
 A level-1 auxiliary file: ./chapter_3.aux
 The style file: ieeetr.bst
 Database file #1: ref_database.bib
+Warning--empty publisher in Hoffmann2003
+Warning--empty journal in Arai2019
 Warning--empty booktitle in Mustafa2019
 Warning--can't use both volume and number fields in Mustafa2019
-Warning--empty journal in Arai2019
-Warning--empty publisher in Hoffmann2003
 You've used 16 entries,
             1876 wiz_defined-function locations,
             605 strings with 7128 characters,

@@ -110,40 +110,35 @@ Output dari behavior coordination diberikan pada low level controller untuk peng
 \section{Skenario Simulasi }
 %Berisi penjelasan scenario simulasi real atau simulasi menggunakan alat bantu software. 
 %Berisi minimal 1 halaman.
-\subsection{Target Tracking}
+%\subsection{Target Tracking}
 % =========================================================
 %algoritma image processing
 %CNN
 %5.3.1.2 Deep Learning for Autonomous Driving
-Agar mendapatkan hasil prediksi tindakan terbaik, robot pada kondisi tertentu di lingkungan, perlu mengklasifikasikan informasi kondisi yaitu gambar kamera selaras dengan aksi. Banyak algoritma klasifikasi yang berbeda tetapi   Convolutional Neural Networks
-(CNN) model digunakan untuk masalah penelitian ini.
-Motivasi menggunakan CNN di atas teknik klasifikasi atau jaringan saraf lainnya adalah bahwa CNN memanfaatkan pola dan informasi struktural secara efisien dalam sebuah gambar. Adapun misalnya, di RNN, ketergantungan keluaran pada semua nilai sebelumnya menghasilkan gambar yang sangat buruk. Selain itu, kebutuhan memori yang lebih sedikit dan parameter yang lebih sedikit. Saat menargetkan model untuk robot dengan daya komputasi rendah, CNN baik untuk digunakan.
+
 
 %\subsection{Image Segmentation}
 
 %\subsection{Target Normalization Position}
 
 %\subsection{Velocity Estimation}
-Proses pertama yang dilakukan setelah menangkap citra adalah melakukan preprocessing.
-Hasil dari preprocessing adalah citra dalam bentuk threshold (citra hitam dan putih). Citra threshold akan diproses lagi di dalam CNN untuk ektraksi fitur dan diklasifikasikan. Pada metode CNN akan berusaha membuat klasifikasi citra semirip mungkin dengan dataset yang dimiliki. Perancangan perangkat lunak dari preprocessing dan klasifikasi citra pada CNN menggunakan perangkat lunak PyCharm dengan bahasa pemrograman python dan library OpenCV dan tensorflow.
-Setelah citra diklasifikasi akan mengirimkan sinyal dalam bentuk data yang akan diterima oleh High level controller. Data
-yang masuk menjadi pergerakan motor. 
+
 
 % =========================================================
-\subsection{Localization System}
+%\subsection{Localization System}
 
 %algoritma hidari halangan and searching
 
 %algoritma menuju target
 
 
-Perancangan behavior untuk pencarian sampah:
+Perancangan behavior pada ATCR:
 
 \begin{enumerate}
 	\item Menghindar halangan dan Mencari target
 	
- Tujuannya adalah menghindari setiap halangan yang dideteksi oleh senso kamera. Behavior ini belajar menggunakan Neuro-Fuzzy Q-Learning (FQL). 
-Dengan sensor kamera, robot berupaya mencari posisi target. Selama tidak ada halangan, tidak tabrakan, behavior ini akan diaktifkan penuh. Jika target tidak terdeteksi, aktivasi bernilai 1, sehingga robot berusaha mencari target.
+ Tujuannya adalah menghindari setiap halangan yang dideteksi oleh sensor. Behavior ini belajar menggunakan Q-Learning. 
+Dengan sensor , robot berupaya mencari posisi target. Selama tidak ada halangan, tidak tabrakan, behavior ini akan diaktifkan penuh. Jika target tidak terdeteksi, aktivasi bernilai 1, sehingga robot berusaha mencari target.
 
 \item Menuju target
 
@@ -152,8 +147,8 @@ Behavior ini memiliki tingkat aktivasi paling rendah. Dia akan aktif penuh jika 
 \end{enumerate}
 
 
-\section{Desain Lingkungan}
-Lingkungan memiliki objek dan rintangan yang diletakan secara acak.  Sementara sensor kamera dalam mengidentifikasi objek dan rintangan yang ditemui di jalurnya. Serta membantu robot untuk menavigasi dalam arena berukuran 2m x 2m.
+%\section{Desain Lingkungan}
+
 
 
 
