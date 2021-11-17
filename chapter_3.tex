@@ -175,10 +175,9 @@ Selain itu, solusi harus memiliki kekhususan yang signifikan sehingga tidak sala
 Selain itu, solusi harus cukup cepat untuk dilakukan secara real time. 
 %Sementara definisi "waktu nyata" sangat berbeda antara arsitektur yang diusulkan (Ren et al. 2017, Redmon et al. 2018), pergerakan robot EyeBot yang relatif lambat dan kemampuan perangkat kerasnya yang terbatas memungkinkan waktu inferensi menjadi lebih tinggi. 
 
-Pada penelitian ini mengusulkan bahwa waktu inferensi target subsistem deteksi objek harus menargetkan 200 milidetik, atau 5 frame per detik (fps), mirip dengan kertas R-CNN Lebih Cepat (Ren et al. 2017).
 
-Parameter pengujian yang akan diteliti adalah sebagai berikut:
-\begin{enumerate}
+
+%Parameter pengujian yang akan diteliti adalah sebagai berikut:
 %	\item Learning rate α
 %	A diverse set of values were tested. The final learning rate was set to α = 0.1, which demonstrated a fast and stable learning process.
 	
@@ -190,9 +189,7 @@ Parameter pengujian yang akan diteliti adalah sebagai berikut:
 %	Database
 	
 %	\item Database Density Parameter t. The density parameter was set to t = 0.5. However, this parameter does not provide intuitive information about the number of learning samples. It indicates the minimum dis- tance between two learning samples. This distance is calculated ac- cording to the vectors (s, a, r) of each sample, which, in this case was a four-dimensional vector since the state has two dimensions. In prac- tice, the number of learning samples resulted in being less than 30, although it depended on the state/action space exploration. Several parameters were tested, concluding that with a larger value (less sam- ples) the convergence was not always achieved due to the interference problem. Similar results were obtained for both DOFs.
-	
-	\item 
-\end{enumerate}
+
 %Ren, S., He, K., Girshick, R. and Sun, J. (2017). Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, [online] 39(6), pp.1137-1149. Available at: https://ieeexplore.ieee.org/document/7485869/
 
 %\subsection{Deteksi Obyek}

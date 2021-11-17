@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.10.25)  17 NOV 2021 09:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.10.25)  17 NOV 2021 11:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -671,7 +671,7 @@ File: fc-english.def 2016/01/12
 \openout2 = `./a_cover.aux'.
 
  (/Volumes/iHDD/FirdausDev/repo/./a_cover.tex
-<logo/TelkomUniversity.png, id=156, 186.4566pt x 269.5671pt>
+<logo/TelkomUniversity.png, id=148, 186.4566pt x 269.5671pt>
 File: logo/TelkomUniversity.png Graphic file (type png)
 <use logo/TelkomUniversity.png>
 Package pdftex.def Info: logo/TelkomUniversity.png  used on input line 19.
@@ -709,29 +709,29 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4
-
-
-])
+))
 \tf@toc=\write4
 \openout4 = `Thesis_Book.toc'.
 
- [5] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.lot)
+ [4
+
+
+] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.lot)
 \tf@lot=\write5
 \openout5 = `Thesis_Book.lot'.
 
- [6
+ [5
 
 ] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.lof)
 \tf@lof=\write6
 \openout6 = `Thesis_Book.lof'.
 
- [7
+ [6
 
 ]
 \openout2 = `./a_list_terms.aux'.
 
- (/Volumes/iHDD/FirdausDev/repo/./a_list_terms.tex) [8
+ (/Volumes/iHDD/FirdausDev/repo/./a_list_terms.tex) [7
 
 ]
 \openout2 = `./a_notation.aux'.
@@ -740,7 +740,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Underfull \vbox (badness 10000) detected at line 13
  []
 
-) [9
+) [8
 
 
 ]
@@ -761,29 +761,34 @@ Overfull \hbox (4.81602pt too wide) in paragraph at lines 101--102
 \OT1/cmr/m/n/10.95 yang dit-er-ap-kan pada ap-likasi robot real un-tuk sis-tem nav-i-gasi au-tonomous mo-bile robot[20].
  []
 
+
+Overfull \hbox (23.37021pt too wide) in paragraph at lines 119--120
+[]\OT1/cmr/m/n/10.95 Bagaimana mengim-ple-men-tasikan Re-in-force-ment learn-ing nu-tuk mem-bantu meningkatkan
+ []
+
 [2]
-<figure/Metode-Penelitian-flow.png, id=321, 332.24126pt x 432.61626pt>
+<figure/Metode-Penelitian-flow.png, id=306, 332.24126pt x 432.61626pt>
 File: figure/Metode-Penelitian-flow.png Graphic file (type png)
 <use figure/Metode-Penelitian-flow.png>
-Package pdftex.def Info: figure/Metode-Penelitian-flow.png  used on input line 204.
+Package pdftex.def Info: figure/Metode-Penelitian-flow.png  used on input line 203.
 (pdftex.def)             Requested size: 300.54515pt x 391.3644pt.
  [3] [4 </Volumes/iHDD/FirdausDev/repo/figure/Metode-Penelitian-flow.png>]
-<figure/Chart-ThesisQ.png, id=333, 798.985pt x 457.71pt>
+<figure/Chart-ThesisQ.png, id=318, 798.985pt x 457.71pt>
 File: figure/Chart-ThesisQ.png Graphic file (type png)
 <use figure/Chart-ThesisQ.png>
-Package pdftex.def Info: figure/Chart-ThesisQ.png  used on input line 284.
+Package pdftex.def Info: figure/Chart-ThesisQ.png  used on input line 283.
 (pdftex.def)             Requested size: 386.41426pt x 221.36052pt.
- [5 </Volumes/iHDD/FirdausDev/repo/figure/Chart-ThesisQ.png>]) [6]
+) [5 </Volumes/iHDD/FirdausDev/repo/figure/Chart-ThesisQ.png>]
 \openout2 = `./chapter_2.aux'.
 
  (/Volumes/iHDD/FirdausDev/repo/./chapter_2.tex
 CHAPTER 2.
-[7
+[6
 
 
 
 ]
-<figure/screenshot004.png, id=356, 673.51625pt x 373.395pt>
+<figure/screenshot004.png, id=338, 673.51625pt x 373.395pt>
 File: figure/screenshot004.png Graphic file (type png)
 <use figure/screenshot004.png>
 Package pdftex.def Info: figure/screenshot004.png  used on input line 34.
@@ -793,7 +798,7 @@ Overfull \hbox (3.1735pt too wide) in paragraph at lines 44--45
 []\OT1/cmr/m/n/10.95 Mapping:untuk mem-ban-gun rep-re-sen-tasi spasial atau model lingkun-gan den-gan meng-
  []
 
-<figure/screenshot005.png, id=359, 709.65125pt x 149.55875pt>
+<figure/screenshot005.png, id=341, 709.65125pt x 149.55875pt>
 File: figure/screenshot005.png Graphic file (type png)
 <use figure/screenshot005.png>
 Package pdftex.def Info: figure/screenshot005.png  used on input line 63.
@@ -803,64 +808,53 @@ Overfull \hbox (15.16273pt too wide) in paragraph at lines 59--66
 \OT1/cmr/m/n/10.95 meren-canakan tin-dakan se-lan-jut-nya, dan akhirnya men-garahkan robot. Gam-bar []2.2[] menggam-
  []
 
-[8 </Volumes/iHDD/FirdausDev/repo/figure/screenshot004.png>] [9 </Volumes/iHDD/FirdausDev/repo/figure/screenshot005.png>]
-<figure/screenshot013.png, id=377, 734.745pt x 322.20375pt>
+[7 </Volumes/iHDD/FirdausDev/repo/figure/screenshot004.png>] [8 </Volumes/iHDD/FirdausDev/repo/figure/screenshot005.png>]
+<figure/screenshot013.png, id=359, 734.745pt x 322.20375pt>
 File: figure/screenshot013.png Graphic file (type png)
 <use figure/screenshot013.png>
-Package pdftex.def Info: figure/screenshot013.png  used on input line 124.
+Package pdftex.def Info: figure/screenshot013.png  used on input line 119.
 (pdftex.def)             Requested size: 300.54515pt x 131.79956pt.
- [10 </Volumes/iHDD/FirdausDev/repo/figure/screenshot013.png>]
-<figure/screenshot009.png, id=384, 777.90625pt x 374.39874pt>
-File: figure/screenshot009.png Graphic file (type png)
-<use figure/screenshot009.png>
-Package pdftex.def Info: figure/screenshot009.png  used on input line 139.
-(pdftex.def)             Requested size: 300.54515pt x 144.64954pt.
-<figure/screenshot010.png, id=385, 594.22pt x 359.3425pt>
-File: figure/screenshot010.png Graphic file (type png)
-<use figure/screenshot010.png>
-Package pdftex.def Info: figure/screenshot010.png  used on input line 151.
-(pdftex.def)             Requested size: 300.54515pt x 181.75438pt.
- [11 </Volumes/iHDD/FirdausDev/repo/figure/screenshot009.png>]) [12 </Volumes/iHDD/FirdausDev/repo/figure/screenshot010.png>]
+) [9 </Volumes/iHDD/FirdausDev/repo/figure/screenshot013.png>]
 \openout2 = `./chapter_3.aux'.
 
  (/Volumes/iHDD/FirdausDev/repo/./chapter_3.tex
 CHAPTER 3.
-<figure/NFQL-BBR-AMR.png, id=399, 529.98pt x 287.0725pt>
+<figure/NFQL-BBR-AMR.png, id=366, 529.98pt x 287.0725pt>
 File: figure/NFQL-BBR-AMR.png Graphic file (type png)
 <use figure/NFQL-BBR-AMR.png>
 Package pdftex.def Info: figure/NFQL-BBR-AMR.png  used on input line 54.
 (pdftex.def)             Requested size: 397.48499pt x 215.30821pt.
-[13
+[10
 
 
 
-] [14 </Volumes/iHDD/FirdausDev/repo/figure/NFQL-BBR-AMR.png>] [15]) [16] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.bbl [17
+] [11 </Volumes/iHDD/FirdausDev/repo/figure/NFQL-BBR-AMR.png>] [12]) [13] (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.bbl [14
 
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
- [18]
+ [15]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
  (/Volumes/iHDD/FirdausDev/repo/Thesis_Book.aux (/Volumes/iHDD/FirdausDev/repo/./a_cover.aux) (/Volumes/iHDD/FirdausDev/repo/./a_abstract.aux) (/Volumes/iHDD/FirdausDev/repo/./a_abstrak.aux) (/Volumes/iHDD/FirdausDev/repo/./a_list_terms.aux) (/Volumes/iHDD/FirdausDev/repo/./a_notation.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_1.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_2.aux) (/Volumes/iHDD/FirdausDev/repo/./chapter_3.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
 Package rerunfilecheck Info: File `Thesis_Book.out' has not changed.
-(rerunfilecheck)             Checksum: 13D104D920A744095CB7583A6B1C7BA7;2445.
+(rerunfilecheck)             Checksum: 7B01C0FAEED6FC1753625EB41395FFC8;2309.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 12503 strings out of 480608
- 194688 string characters out of 5903629
- 594275 words of memory out of 5000000
- 27934 multiletter control sequences out of 15000+600000
+ 12474 strings out of 480608
+ 194122 string characters out of 5903629
+ 594205 words of memory out of 5000000
+ 27916 multiletter control sequences out of 15000+600000
  541958 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  50i,12n,81p,2031b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Volumes/iHDD/FirdausDev/repo/Thesis_Book.pdf (27 pages, 427964 bytes).
+Output written on /Volumes/iHDD/FirdausDev/repo/Thesis_Book.pdf (23 pages, 350190 bytes).
 PDF statistics:
- 502 PDF objects out of 1000 (max. 8388607)
- 438 compressed objects within 5 object streams
- 117 named destinations out of 1000 (max. 500000)
- 350 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 324 words of extra memory for PDF output out of 10000 (max. 10000000)
 

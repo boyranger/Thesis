@@ -23,16 +23,14 @@
 \BOOKMARK [1][-]{section.2.1}{Autonomous Trash Collector Robot}{chapter.2}% 23
 \BOOKMARK [1][-]{section.2.2}{Autonomous Mobile Robot}{chapter.2}% 24
 \BOOKMARK [1][-]{section.2.3}{Mobile Robot Control Architectures}{chapter.2}% 25
-\BOOKMARK [1][-]{section.2.4}{Digital Image Processing}{chapter.2}% 26
-\BOOKMARK [1][-]{section.2.5}{Reinforcement Learning}{chapter.2}% 27
-\BOOKMARK [2][-]{subsection.2.5.1}{Q learning in robotics}{section.2.5}% 28
-\BOOKMARK [2][-]{subsection.2.5.2}{Neuro Fuzzy}{section.2.5}% 29
-\BOOKMARK [0][-]{chapter.3}{RESEARCH METHODOLOGY}{}% 30
-\BOOKMARK [1][-]{section.3.1}{Model system dan Skenario}{chapter.3}% 31
-\BOOKMARK [1][-]{section.3.2}{Skenario Simulasi }{chapter.3}% 32
-\BOOKMARK [2][-]{subsection.3.2.1}{Target Tracking}{section.3.2}% 33
-\BOOKMARK [2][-]{subsection.3.2.2}{Localization System}{section.3.2}% 34
-\BOOKMARK [1][-]{section.3.3}{Desain Lingkungan}{chapter.3}% 35
-\BOOKMARK [1][-]{section.3.4}{Skenario Pengambilan data}{chapter.3}% 36
-\BOOKMARK [1][-]{section.3.5}{Skenario Analisis}{chapter.3}% 37
-\BOOKMARK [0][-]{Item.22}{BIBLIOGRAPHY}{}% 38
+\BOOKMARK [1][-]{section.2.4}{Reinforcement Learning}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.4.1}{Q learning in robotics}{section.2.4}% 27
+\BOOKMARK [0][-]{chapter.3}{RESEARCH METHODOLOGY}{}% 28
+\BOOKMARK [1][-]{section.3.1}{Model system dan Skenario}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.2}{Skenario Simulasi }{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.2.1}{Target Tracking}{section.3.2}% 31
+\BOOKMARK [2][-]{subsection.3.2.2}{Localization System}{section.3.2}% 32
+\BOOKMARK [1][-]{section.3.3}{Desain Lingkungan}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.4}{Skenario Pengambilan data}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.5}{Skenario Analisis}{chapter.3}% 35
+\BOOKMARK [0][-]{Item.21}{BIBLIOGRAPHY}{}% 36

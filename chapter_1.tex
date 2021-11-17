@@ -115,9 +115,8 @@
 %The relation between the previous research or the existing condition and the reference, The relation between problem definition and research variable.
 %The objective answerS the problem AND solves the problems, the hypothesis is built based on the objecctives and the problems. The objective is specific
 \begin{itemize}
-	\item Sensor 
-	\item Navigas autonomous robot pada lingkungan dinamik
-	\item Algoritma Q-Learning 
+	\item Bagaimana merancang sistem lokalisasi dan pemetaan untuk referensi pergerakan ATCR?
+	\item Bagaimana mengimplementasikan Reinforcement learning  nutuk membantu meningkatkan kemampuan perencanaan lokal robot menghindari halangaan baik yang dipetakan sebelumnya ataupun tidak?
 \end{itemize} 
 
 
@@ -128,8 +127,8 @@
 %Objective and Hypotheses (Tujuan dan Hipotesa)
 %This section should contain objective research direction (sharp and measurable) and the hypotheses (The explanation of method, concept which will be used to solve the problem as well as the reason why they will be used in the research; the explanation about the difference between method, concept, and theorem which will be used and the method, concept method, concept which were used previously ).
 \begin{itemize}
-	\item Q-Learning, \textit{obstacle avoidance} dan mobile robot
-	\item 
+	\item Merancang sistem  mobil robot menggunakan Navigation stack ROS dan SLAM referensi  pergerakan ATCR dengan sistem pemetaan robot dapat mengelilingi ruangan
+	\item Mengimplementasikan algoritma Q-Learning sorta mengintegrasikannya dengen ROS Navigation Stack dan SLAM pada robot mobil
 \end{itemize}
 % =========================================================
 %\section{Hipotesis}
@@ -287,12 +286,7 @@ Penelitian ini direncanakan akan diselesaikan dalam tempo empat bulan. Rencana t
 \end{figure}
 
 
-In order to develop an autonomous robot, a control architecture must be included in the robot control system. The control architecture has the goal of accomplishing a mission which can be divided into a set of sequential tasks.  Behavior-based control architectures as a methodology to implement this kind of controllers. Its high interaction with the environment, as well as its fast execution and reactivity, are the keys to its success in controlling autonomous robots. This chapter also compared some classic approaches by testing their performance in a simulated task with an Autonomous Underwater Vehicle. The main attention was given to the coordination methodology. Competitive coordinators assured the robustness of the controller, whereas cooperative coordinators determined the performance of the final robot trajectory. Chapter 3 proposed the structure of a control architecture for an autonomous robot. Two main layers are found in this schema; the deliberative layer which divides the robot mission into a set of tasks, and the behavior-based layer which is in charge of accomplishing these tasks. This chapter and the thesis centered only on the behavior-based. layer. A behavior coordination approach was proposed. The main feature is its hybrid coordination of behaviors, between competitive and cooperative approaches. The approach was tested with the simulated task as well.
 
-
-The second part of the thesis centered on the implementation of the robot
-behaviors. It proposed the use of a learning algorithm to learn the internal mapping between the environment state and the robot actions. Chapter 4 presented Reinforcement Learning as a suitable learning theory for robot learning. Its online applicability and the non-requirement of any previous information about the environment are the most important advantages. In addition, the Q learning algorithm was presented, which is specially ade- quate for its capability in off-policy learning. The most important drawback is the generalization problem. Reinforcement Learning algorithms are based on discrete representations of the state and action spaces. When these algorithms are applied to continuous variables, as most robotics applications require, the discretization of the variables causes an enormous number of states and a long learning time. The generalization makes the application of Reinforcement Learning in robotics impractical. However, several techniques were presented which attempt to solve this problem. Chapter 5 proposed a Reinforcement Learning algorithm designed to be applied to robotics. The goal of the SONQL algorithm is to learn robot behaviors. It is based on the Q learning algorithm and solves the generalization problem by using a Neural Network and a database of the most representative learning samples.
-The
 
 
 %Contributions
