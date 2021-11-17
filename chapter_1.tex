@@ -156,6 +156,13 @@
 	\item Pada perancangan sistem tidak dilakukan perhitungan terhadap parameter motor dc seperti gaya gesek dan inersia.
 	\item Sistem kendali gerak hanya mengontrol kecepatan dan arah putar motor dc pada mobile robot.
 	\item Sistem navigasi mobile robot ini beroperasi pada lintasan yang datar.
+	\item Menggunakan Robot Operating System dan berjalan di sistem operasi Ubuntu.
+	\item Menggunakan Algoritma SLAM nutuk melakukan pemetaan are dan menghasilkan point cloud data.
+	\item Menggunakan sensor kamera (monocular camera) until melakukan area.
+	\item Robot melakuakan lokalisasi secara otomatis menggunakan algoritma yang sudan ditentukan
+	\item Menggunakan sensor ultrasonic HC-SR04, jumlah sensor yang digunakan 5 buah.
+	\item sensor ultrasonik digunakan untuk menentukan jarak aman robot dalam melakukan pergerakan
+	\item pemograman menggunakan ROS
 \end{enumerate}
 
 
@@ -168,21 +175,14 @@
 %CNN dengan learned-features (fitur hasil-pembelajaran) yang dihasilkan dapat digunakan untuk menyelesaikan permasalahan-permasalahan yang ada pada proses pengenalan objek dan pemulihan citra, misalnya pada metode pengenalan dan kategorisasi tempat.
 %”The development of a robot control architecture for an AUV-able to achieve simple tasks and exhibit real-time learning capabil- ities”
 
-Behavior-based control layer. Design of a behavior-based control system which will be contained in the overall control architecture with the purpose of accomplishing simple tasks. A task is intended as one of the phases in which a mission can be divided. It is assumed that the sequential achievement of a set of tasks entails the achievement of the mission. The behavior-based control system must assure the safety of the robot while demonstrating a high control performance.
+Lapisan kontrol berbasis perilaku. Desain sistem kontrol berbasis perilaku yang akan terkandung dalam arsitektur kontrol keseluruhan dengan tujuan menyelesaikan tugas-tugas sederhana. Tugas dimaksudkan sebagai salah satu fase di mana misi dapat dibagi. Diasumsikan bahwa pencapaian berurutan dari serangkaian tugas memerlukan pencapaian misi. Sistem kontrol berbasis perilaku harus menjamin keamanan robot sambil menunjukkan kinerja kontrol yang tinggi.
 
-Reinforcement Learning-based behaviors. Integration of a reinforcem- ent learning algorithm in the control architecture. This learning theory will be applied to the acquisition of the internal structure of a robot behavior. The purpose of using Reinforcement Learning is to reduce the required human work in the development of a new robot behavior. Instead of implementing the action-decision rules, the designer need only to define the goal of the behavior.
-
-Experimentation with an AUV. Evaluation of the proposed control and learning systems with real experiments using an Autonomous Under- water Vehicle. The feasibility and limitations of these approaches must be experimentally tested with the available systems and resources.
+Penguatan Pembelajaran berbasis perilaku. Integrasi algoritma pembelajaran penguatan dalam arsitektur kontrol. Teori pembelajaran ini akan diterapkan pada akuisisi struktur internal perilaku robot. Tujuan penggunaan Reinforcement Learning adalah untuk mengurangi pekerjaan manusia yang diperlukan dalam pengembangan perilaku robot baru. Alih-alih menerapkan aturan tindakan-keputusan, perancang hanya perlu mendefinisikan tujuan perilaku.
 
 
-Algoritma Neuro Fuzzy Q Learning pada sistem inferensi neuro-fuzzy adaptif telah diterapkan untuk mengontrol kecepatan sudut roda kendaraan darat otonom. Kecepatan ini memandu kendaraan dengan aman untuk mencapai tujuan dalam lingkungan statis tanpa bertabrakan dengan rintangan yang ada di jalan. Sistem yang diusulkan menggunakan empat pengontrol ANFIS. Pertama, dua pengontrol untuk pencapaian target yang memastikan kendaraan mencapai titik tujuannya; Kedua, dua pengontrol untuk memandu kendaraan untuk menghindari tabrakan dengan rintangan. Dalam empat pengontrol ini, kecepatan sudut kanan dan kiri akan menurunkan arah kendaraan selama navigasi \cite{Al-mayyahi2014}.
+
+Algoritma  Q Learning pada sistem diterapkan untuk mengontrol kecepatan sudut roda kendaraan darat otonom. Kecepatan ini memandu kendaraan dengan aman untuk mencapai tujuan dalam lingkungan statis tanpa bertabrakan dengan rintangan yang ada di jalan. 
 % =========================================================
-      
-
-%NFQ-Learning daiagram blok
-%
-
-
 
 \section{Metodologi}
 % =========================================================
