@@ -15,46 +15,45 @@ Warning--empty booktitle in Mustafa2019
 Warning--can't use both volume and number fields in Mustafa2019
 Warning--empty journal in Arai2019
 Warning--empty publisher in Hoffmann2003
-Warning--empty journal in Al-mayyahi2014
-You've used 17 entries,
+You've used 16 entries,
             1876 wiz_defined-function locations,
-            610 strings with 7269 characters,
-and the built_in function-call counts, 5767 in all, are:
-= -- 591
-> -- 224
+            605 strings with 7128 characters,
+and the built_in function-call counts, 5433 in all, are:
+= -- 556
+> -- 213
 < -- 0
-+ -- 81
-- -- 64
-* -- 442
-:= -- 792
-add.period$ -- 17
-call.type$ -- 17
-change.case$ -- 17
++ -- 77
+- -- 61
+* -- 420
+:= -- 749
+add.period$ -- 16
+call.type$ -- 16
+change.case$ -- 16
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 280
-empty$ -- 499
-format.name$ -- 64
-if$ -- 1390
+cite$ -- 20
+duplicate$ -- 263
+empty$ -- 469
+format.name$ -- 61
+if$ -- 1308
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 17
-newline$ -- 54
-num.names$ -- 17
-pop$ -- 40
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 51
+num.names$ -- 16
+pop$ -- 35
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 225
+skip$ -- 211
 stack$ -- 0
-substring$ -- 501
-swap$ -- 141
+substring$ -- 469
+swap$ -- 133
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 59
-width$ -- 19
-write$ -- 171
-(There were 5 warnings)
+warning$ -- 4
+while$ -- 55
+width$ -- 18
+write$ -- 163
+(There were 4 warnings)
